@@ -1,0 +1,6 @@
+{
+  "name": "VIVA Mobile",
+  "description": "Futuristic 5G Telecommunication Company VIVA Mobile offering eSIM kits, latest smartphones, interactive US coverage map, multilingual support, and AI chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
